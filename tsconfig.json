@@ -2,7 +2,7 @@
   "compilerOptions": {
     "watch": true,
     "outDir": "dist/",
-    "moduleResolution": "Node",
-    "target": "ES6"
+    "moduleResolution": "classic",
+    "target": "ES5"
   }
 }
