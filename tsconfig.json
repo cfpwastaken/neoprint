@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "watch": true,
+    "outDir": "dist/",
+    "moduleResolution": "Node",
+    "target": "ES6"
+  }
+}

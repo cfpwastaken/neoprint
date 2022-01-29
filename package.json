@@ -1,0 +1,19 @@
+{
+  "name": "neoprint",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "terminal-kit": "^2.4.0"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.13",
+    "@types/terminal-kit": "^1.28.4"
+  }
+}
