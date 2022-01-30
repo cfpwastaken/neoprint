@@ -1,6 +1,5 @@
 {
   "compilerOptions": {
-    "watch": true,
     "outDir": "dist/",
     "moduleResolution": "classic",
     "target": "ES5"

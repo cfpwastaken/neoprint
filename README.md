@@ -15,6 +15,11 @@ Tell me if it works on your OS!
 3. Install the Dependencies: `npm i`
 4. Link neoprint: `npm link`
 
+### Solving problems with installing
+
+1. Install typescript globally: `npm i -g typescript`
+2. Compile the typescript code: `tsc` and wait for it to finish
+
 ## Usage
 
 Just use `nprint file.png`
